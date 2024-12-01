@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "BitLinks - Your trusted URL shortener",
-  description: "Bitlinks helps you shorten your URLs easily",
+  title: "Shorify - Your trusted URL shortener",
+  description: "Shorify helps you shorten your URLs easily",
 };
 
 export default function RootLayout({ children }) {
